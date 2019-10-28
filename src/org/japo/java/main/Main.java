@@ -21,12 +21,9 @@ package org.japo.java.main;
  */
 public class Main {
 
-    
     public static void main(String[] args) {
-        final int ANY_LLEGADA_LUNA=1969;
+        final int ANY_LLEGADA_LUNA = 1969;
         System.out.print("El hombre llegó a la Luna en ");
         System.out.println(ANY_LLEGADA_LUNA);
-        
     }
-    
 }
